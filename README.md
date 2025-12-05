@@ -100,6 +100,6 @@ Estou aberto a oportunidades para colocar em prática meus conhecimentos e cresc
    <img 
   height="200"
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=andreyvid&show_icons=true&theme=github_dark&locale=pt-br"
+  src="https://awesome-github-stats.azurewebsites.net/user-stats/andreyvid?theme=dark"
 />
 </p>
