@@ -1,105 +1,58 @@
-# ☕ Andreyvid Dutra
+<div align="center">
 
-**`Desenvolvedor Back-end`**
+# Oi, eu sou o Andreyvid 👋
 
-Me chamo Andreyvid Dutra, tenho 23 anos e sou de São Paulo - SP. Atualmente, curso Engenharia da Computação e estou focado em aprimorar meus conhecimentos em Java e desenvolvimento back-end. Tenho experiência com JDBC, Maven, JPA, Hibernate e banco de dados MySQL. Também estou iniciando meus estudos em Spring Framework para construir aplicações mais robustas e escaláveis.
+**Estudante de Engenharia da Computação · Java back-end · migrando para DevOps e Cloud**
 
-Sou apaixonado por tecnologia e busco constantemente aprender novas ferramentas e práticas para evoluir como desenvolvedor.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andreyvid--dutra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyvid-dutra)
+[![Site](https://img.shields.io/badge/portf%C3%B3lio-MaxProgress-F4632A?style=flat-square)](https://andreyvid.github.io/maxprogress-site/)
+![Status](https://img.shields.io/badge/aberto%20a-est%C3%A1gio%20%7C%20j%C3%BAnior-2ea44f?style=flat-square)
 
-Estou aberto a oportunidades para colocar em prática meus conhecimentos e crescer profissionalmente na área de desenvolvimento de software.
-
-
-
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/andreyvid-dutra" target="_blank" rel="noopener noreferrer">
-    <img 
-      alt="linkedin" 
-      title="Me acompanhe por aqui!" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-      style="height: 32px; width: auto; margin-right: 8px; border-radius: 4px;"
-      onfocus="this.style.outline='2px solid #0077B5'" 
-      onblur="this.style.outline='none'"
-      tabindex="0"
-    />
-  </a>
-
-  <a href="mailto:andreyviddutra@gmail.com">
-    <img 
-      alt="gmail" 
-      title="Entre em contato" 
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-      style="height: 27px; width: auto; border-radius: 4px;"
-      onfocus="this.style.outline='2px solid #D44638'" 
-      onblur="this.style.outline='none'"
-      tabindex="0"
-    />
-  </a>
 </div>
 
----
+## Sobre mim
 
-### ⚙️ Linguagens e Tecnologias
+Cursando o **8º semestre de Engenharia da Computação**. Minha base é **Java** (Spring, JPA/Hibernate, MySQL) e agora estou levando essa base para **DevOps e Cloud**: automatizar testes e entrega, medir qualidade e colocar aplicações no ar sem etapas manuais.
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Maven" 
-    title="Maven"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Hibernate"
-    title="Hibernate" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
+Estou procurando **estágio ou vaga júnior** em desenvolvimento ou DevOps.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## Projeto em destaque
 
+### [MaxProgress](https://github.com/Andreyvid/maxprogress-site) · diário de treino para Android
 
-<br/>
-<br/>
+<a href="https://andreyvid.github.io/maxprogress-site/">
+  <img src="https://raw.githubusercontent.com/Andreyvid/maxprogress-site/main/docs/banner.png" alt="Telas do app MaxProgress nos temas escuro e claro" width="800">
+</a>
 
-### 📈 Estatísticas
+App que eu desenvolvo sozinho (Capacitor + Firebase) para registrar carga e repetições e acompanhar a evolução. O código do app é privado; o repositório público é o **site de apresentação**, com:
 
-<p>
-   <img 
-  height="200"
-  style="padding-right: 10px;" 
-  src="https://awesome-github-stats.azurewebsites.net/user-stats/andreyvid?theme=dark"
-/>
-</p>
+- celular 3D animado com a rolagem, tema escuro e claro e [case study](https://andreyvid.github.io/maxprogress-site/case-study.html);
+- **CI/CD com GitHub Actions**: verificação de links, Lighthouse e deploy automático no GitHub Pages;
+- política de privacidade conforme a LGPD.
+
+## Tecnologias
+
+**Back-end e dados**
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven" alt="Java, Spring, Hibernate, MySQL e Maven" height="44">
+
+**Front-end e mobile**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,firebase,androidstudio" alt="JavaScript, HTML, CSS, Firebase e Android Studio" height="44">
+
+**Ferramentas e entrega**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux" alt="Git, GitHub, GitHub Actions e Linux" height="44">
+
+**Estudando agora:** CI/CD, Linux, containers (Docker) e serviços de nuvem.
+
+## Outros projetos
+
+| Projeto | Sobre |
+|---|---|
+| [CadastroClientePA](https://github.com/Andreyvid/CadastroClientePA) | Aplicação Java com JPA e Hibernate para cadastro, consulta e exclusão de clientes, com banco MySQL |
+| [agendador-tarefa](https://github.com/Andreyvid/agendador-tarefa) · [bff-agendador-tarefa](https://github.com/Andreyvid/bff-agendador-tarefa) · [usuario](https://github.com/Andreyvid/usuario) · [notificacao](https://github.com/Andreyvid/notificacao) | Projeto em Spring dividido em serviços |
+
+## Vamos conversar?
+
+Se você tem uma vaga, ou só quer trocar uma ideia sobre Java, DevOps ou o MaxProgress, me chame no [LinkedIn](https://www.linkedin.com/in/andreyvid-dutra).
